@@ -1,0 +1,2 @@
+# No real dependencies -- stdlib only. Present so ecosystem detection
+# recognizes this as a Python project with a real, installable manifest.
